@@ -1,0 +1,2 @@
+sudo wget --no-check-certificate -O /usr/local/sbin/apt-remove-expired-keys https://raw.githubusercontent.com/algodelinux/apt-remove-expired-keys/refs/heads/master/apt-remove-expired-keys
+sudo chmod 755 /usr/local/sbin/apt-remove-expired-keys
